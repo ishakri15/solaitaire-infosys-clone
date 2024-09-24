@@ -1,0 +1,122 @@
+.menu{
+    background-color: rgb(63, 68, 106);
+    position: relative !important;
+    font-size:meduim;
+   } 
+   .list{
+    color: white;
+    padding-left: 500px;
+    padding-right: 150px;
+   }
+   .list td{
+    padding: 10px;
+   }
+   .menu2{
+    background-color: rgba( 0, 0, 0, 0.5);
+   }
+   .container button{
+    background-color: rgb(25, 110, 214);
+    color: white;
+    border: none;
+   }
+   .container{
+    padding-top: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   .container td{
+    padding : 0px;
+   }
+   .carousel-caption{
+    background-color: white;
+    height: 300px;
+    width: 500px;
+   }
+   .carousel-caption p{
+    font-size: 16px;
+    line-height: 32px;
+    color: #1c1c1c;
+    margin-bottom: 20px;
+}
+.slide2{
+    top:100px;
+    bottom: 600px;
+}
+.mq{
+    filter: grayscale(100%);
+}
+.about{
+    background: url(about_image-1.jpg) ;
+    background-repeat: none ;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    font-size: large;
+}
+.expertise{
+    background: url(our_work_image-1.jpg);
+    background-repeat: none;
+    width: 800px;
+    height: 400px;
+    align-items: center;
+    color: rgb(28, 52, 128);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: large;
+}
+.btn:hover{
+    transition: 2s;
+}
+.pingoo{
+    background: url(pingoo_bg.jpg);
+    height: 650px;
+    width: 100%;
+}
+.quote{
+    background-color: rgb(238, 89, 66);
+    padding: 15px;
+}
+.vdobtn{
+    border: 1px solid wheat;
+    border-radius: 30%;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, .15)
+}
+.newsnblogs{
+    background-color: rgb(63, 68, 106);
+    height: 550px;
+}
+.text{
+    padding: 20px;
+}
+.presence{
+    background-color: rgba(0,0,0,0.5);
+    padding: 40px;
+    color:white
+}
+.quoteform{
+    background-color: rgb(225, 223, 221);
+    padding: 50px;
+}
+.quoteform input{
+    background-color: rgb(201, 201, 201);
+}
+.bottom{
+    background-color: rgb(101, 101, 111);
+    color: white;
+    padding: 50px;
+}
+.section1{
+    background-color: rgb(104, 107, 122);
+    padding: 5px;
+}   
+footer{
+    background-color: rgb(53, 53, 106);
+    color:white;
+    padding: 10px;
+}
+
+
